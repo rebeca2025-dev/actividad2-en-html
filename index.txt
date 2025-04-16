@@ -1,0 +1,129 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <title>Camila Rebeca Mercado Duran</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-image: url('https://wallpapers4screen.com/Uploads/18-7-2022/39696/thumb2-4k-bolivia-flag-stone-texture-flag-of-bolivia-stone-background.jpg');
+            background-size: cover;
+            background-repeat: no-repeat;
+            background-position: center;
+        }
+
+        h1 {
+            text-align: center;
+            font-size: 36px;
+            font-weight: bold;
+            font-style: italic;
+            color: #000;
+            background-color: rgba(255, 255, 255, 0.7);
+            padding: 10px;
+            margin-top: 20px;
+        }
+
+        table {
+            margin: auto;
+            border-collapse: collapse;
+            width: 80%;
+            background-color: rgba(255, 255, 255, 0.8);
+        }
+
+        td {
+            border: 1px solid #000;
+            width: 33%;
+            height: 150px;
+            text-align: center;
+            vertical-align: middle;
+            padding: 10px;
+            font-size: 16px;
+        }
+
+        .estrofa {
+            font-weight: bold;
+        }
+
+        .rojo {
+            color: red;
+        }
+
+        .amarillo {
+            color: orange;
+        }
+
+        .verde {
+            color: green;
+        }
+    </style>
+</head>
+<body>
+
+    <h1>VIVA MI PATRIA BOLIVIA</h1>
+
+    <table>
+        <tr>
+            <td class="estrofa rojo">
+                Bolivianos: el hado propicio<br>
+                coronó nuestros votos y anhelo;<br>
+                es ya libre, ya libre este suelo,<br>
+                ya cesó su servil condición.
+            </td>
+            <td>
+                <ul>
+                    <li>El Carnaval de Oruro</li>
+                    <li>La Alasita en La Paz</li>
+                    <li>La Diablada</li>
+                </ul>
+            </td>
+            <td>
+                <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Bandera_de_Bolivia_%28Estado%29.svg/1280px-Bandera_de_Bolivia_%28Estado%29.svg.png" alt="Bandera de Bolivia" width="100">
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <ul>
+                    <li>La cueca boliviana</li>
+                    <li>La wiphala como símbolo patrio</li>
+                    <li>El Ekeko</li>
+                </ul>
+            </td>
+            <td class="estrofa amarillo">
+                Al estruendo marcial que ayer fuera,<br>
+                y al clamor de la guerra horroroso<br>
+                sigue el himno triunfal y armonioso<br>
+                que la patria al eterno elevó.
+            </td>
+            <td>
+                <ul>
+                    <li>La hoja de coca en la cultura andina</li>
+                    <li>La gastronomía típica: salteñas, sajta</li>
+                    <li>Los tejidos andinos</li>
+                </ul>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <a href="https://www.boliviaturismo.com.bo/" target="_blank">
+                    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Escudo_de_Bolivia.svg/1200px-Escudo_de_Bolivia.svg.png" alt="Escudo de Bolivia" width="100"><br>
+                    Información sobre Bolivia
+                </a>
+            </td>
+            <td>
+                <ul>
+                    <li>La danza de los caporales</li>
+                    <li>El lago Titicaca</li>
+                    <li>El salar de Uyuni</li>
+                </ul>
+            </td>
+            <td class="estrofa verde">
+                De la patria el alto nombre<br>
+                en glorioso esplendor conservemos,<br>
+                y en sus aras de nuevo juremos:<br>
+                ¡Morir antes que esclavos vivir!
+            </td>
+        </tr>
+    </table>
+
+</body>
+</html>
